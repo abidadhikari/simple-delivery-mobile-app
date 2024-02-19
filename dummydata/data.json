@@ -1,0 +1,38 @@
+{
+  "resturants": [
+    {
+      "name": "KFC",
+      "short_description": "THis is short description",
+      "imgUrl": "https://images.foodmandu.com//Images/Vendor/1498/OriginalSize/web-cover-biryani-adda-min_190922070609.jpg",
+      "id": "R001",
+      "rating": 5,
+      "genre": "Traditional",
+      "address": "Bhaktapur Nepal",
+      "long": 5.2,
+      "lat": 0.2,
+      "dishes": [
+        {
+          "id": "F001R001",
+          "name": "Checken MoMo",
+          "description": "Chicken momos are a popular recipe in household terms in Nepal.",
+          "price": 2,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/1200px-Momo_nepal.jpg"
+        },
+        {
+          "id": "F001R002",
+          "name": "Checken MoMo",
+          "description": "Chicken momos are a popular recipe in household terms in Nepal.",
+          "price": 8,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/1200px-Momo_nepal.jpg"
+        },
+        {
+          "id": "F001R003",
+          "name": "Checken MoMo",
+          "description": "Chicken momos are a popular recipe in household terms in Nepal.",
+          "price": 5,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/1200px-Momo_nepal.jpg"
+        }
+      ]
+    }
+  ]
+}
